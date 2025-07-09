@@ -58,11 +58,11 @@ Designed a relational DBMS from ER diagram to implementation; focused on normali
 
 **George Mason University**  
 *MS in Data Analytics Engineering*  
-2023 – Present  
+2024 – Present  
 
-**GITAM University, India**  
+**Anil Neerukonda Institute of Technology & Sciences, India**  
 *B.Tech in Computer Science & Engineering*  
-2018 – 2022  
+2019 – 20223  
 
 ---
 
