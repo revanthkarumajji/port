@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Revanth Anil
+# 👋 Hi, I'm Revanth Karumajji
 
 🎓 Graduate Student in Data Analytics Engineering at George Mason University  
 💡 Passionate about Big Data, Machine Learning, and solving real-world problems using data-driven approaches  
@@ -61,7 +61,7 @@ Designed a relational DBMS from ER diagram to implementation; focused on normali
 2024 – Present  
 
 **Anil Neerukonda Institute of Technology & Sciences, India**  
-*B.Tech in Computer Science & Engineering*  
+*B.Tech in Mechanical Engineering*  
 2019 – 20223  
 
 ---
