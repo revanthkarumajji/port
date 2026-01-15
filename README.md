@@ -3,16 +3,16 @@
 🎓 Graduate Student in Data Analytics Engineering at George Mason University  
 💡 Passionate about Big Data, Machine Learning, and solving real-world problems using data-driven approaches  
 🌱 Currently exploring the integration of NoSQL databases and Apache Spark in AI model training pipelines  
-📍 Based in Fairfax, VA | Originally from India
+📍 Based in Fairfax, VA 
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, R, SQL, C  
-- **Big Data & Analytics:** Apache Spark, Hadoop, Databricks, Spark MLlib, MapReduce  
-- **Databases:** MySQL, MongoDB, Cassandra, PostgreSQL  
-- **Tools & Platforms:** Git, Jupyter, Tableau, Power BI, Excel, AWS (Basics), GCP (Basics)  
+- **Programming Languages:** Python, R, SQL,   
+- **Visualization & Reporting:** Tableau, Power BI, Microsoft Excel, Microsoft PowerPoint  
+- **Database & Big Data:** MySQL, Microsoft SQL Server, MongoDB, Databricks, Apache Spark, PySpark  
+- **Statistical Analysis:** Descriptive Statistics, Group Comparisons, Trend Analysis, Scikit-learn  
 - **Machine Learning:** Scikit-learn, TensorFlow (Basics), LSTM, Logistic Regression, Decision Trees  
 - **Other:** HTML/CSS, Lucidchart, Shell scripting, Data Wrangling, Data Visualization  
 
@@ -57,12 +57,16 @@ Designed a relational DBMS from ER diagram to implementation; focused on normali
 ## 🎓 Education
 
 **George Mason University**  
-*MS in Data Analytics Engineering*  
-2024 – Present  
+*MS in Data Analytics Engineering*  - Jan 2024 – Dec 2025 
+ 
+   **Relevant Course work:**
+
 
 **Anil Neerukonda Institute of Technology & Sciences, India**  
-*B.Tech in Mechanical Engineering*  
-2019 – 20223  
+*B.Tech in Mechanical Engineering* - 2019 – 2023
+   
+   **Relevant Course work:**
+  
 
 ---
 
@@ -70,7 +74,7 @@ Designed a relational DBMS from ER diagram to implementation; focused on normali
 
 - 🌐 [Portfolio Website](https://revanthanil.dev) _(placeholder)_  
 - 💼 [LinkedIn](https://www.linkedin.com/in/revanthanil) _(placeholder)_  
-- 📫 Email: revanth.anil@email.com _(placeholder)_
+- 📫 Email: revanthanil408@email.com _(placeholder)_
 
 ---
 
