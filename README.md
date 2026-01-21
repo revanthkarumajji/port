@@ -20,9 +20,6 @@
 
 ## 💼 Experience
 
-- **Graduate Engineer Trainee @ Shipmantra, India**  
-  Developed big data pipelines and contributed to data ingestion tasks using Spark and HDFS for logistics optimization.
-
 - **Research Intern @ NYSERDA (via GMU project)**  
   Analyzed 2023 Soils Data to optimize solar project siting based on agricultural productivity and soil profiles.
 
@@ -72,9 +69,9 @@ Designed a relational DBMS from ER diagram to implementation; focused on normali
 
 ## 📬 Get in Touch
 
-- 🌐 [Portfolio Website](https://revanthanil.dev) _(placeholder)_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/revanthanil) _(placeholder)_  
-- 📫 Email: revanthanil408@email.com _(placeholder)_
+- 🌐 [Portfolio Website](https://revanthanil.dev)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/revanthanil)   
+- 📫 Email: revanthanil408@email.com 
 
 ---
 
