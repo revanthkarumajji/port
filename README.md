@@ -45,9 +45,6 @@ Developed NLP models to detect toxicity in comments, focusing on fairness across
 Built a binary classifier pipeline to predict employee attrition using logistic regression in PySpark.  
 > _Tech: PySpark, Spark ML, Feature Indexing, Model Evaluation_
 
-### 🟣 Library Database Management System
-Designed a relational DBMS from ER diagram to implementation; focused on normalization and query performance.  
-> _Tools: MySQL, Lucidchart_
 
 ---
 
