@@ -41,11 +41,6 @@ Built a regression model using Apache Spark and MLlib to predict NYC taxi fares 
 Developed NLP models to detect toxicity in comments, focusing on fairness across identity groups.  
 > _Tech: Scikit-learn, SGD, LSTM, NLP Preprocessing, Bias Mitigation_
 
-### 🔵 Employee Attrition Prediction (Logistic Regression Pipeline)
-Built a binary classifier pipeline to predict employee attrition using logistic regression in PySpark.  
-> _Tech: PySpark, Spark ML, Feature Indexing, Model Evaluation_
-
-
 ---
 
 ## 🎓 Education
