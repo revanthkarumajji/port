@@ -2,8 +2,6 @@
 
 🎓 Graduate Student in Data Analytics Engineering at George Mason University  
 💡 Passionate about Big Data, Machine Learning, and solving real-world problems using data-driven approaches  
-🌱 Currently exploring the integration of NoSQL databases and Apache Spark in AI model training pipelines  
-📍 Based in Fairfax, VA 
 
 ---
 
