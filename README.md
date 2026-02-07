@@ -12,7 +12,6 @@
 - **Database & Big Data:** MySQL, Microsoft SQL Server, MongoDB, Databricks, Apache Spark, PySpark  
 - **Statistical Analysis:** Descriptive Statistics, Group Comparisons, Trend Analysis, Scikit-learn  
 - **Machine Learning:** Scikit-learn, TensorFlow (Basics), LSTM, Logistic Regression, Decision Trees  
-- **Other:** HTML/CSS, Lucidchart, Shell scripting, Data Wrangling, Data Visualization  
 
 ---
 
