@@ -51,9 +51,6 @@ Developed NLP models to detect toxicity in comments, focusing on fairness across
 **Anil Neerukonda Institute of Technology & Sciences, India**  
 *B.Tech in Mechanical Engineering* - 2019 – 2023
    
-   **Relevant Course work:**
-  
-
 ---
 
 ## 📬 Get in Touch
