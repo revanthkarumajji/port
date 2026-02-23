@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Revanth Karumajji
 
+
 🎓 Graduate Student in Data Analytics Engineering at George Mason University  
 💡 Passionate about Big Data, Machine Learning, and solving real-world problems using data-driven approaches  
-
+> 🧭 *Always curious. Always building. Always learning.*
 ---
 
 ## 🛠️ Tools & Technologies
@@ -61,5 +62,4 @@ Developed NLP models to detect toxicity in comments, focusing on fairness across
 
 ---
 
-> 🧭 *Always curious. Always building. Always learning.*
 
