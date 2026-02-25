@@ -37,7 +37,7 @@ Built a regression model using Apache Spark and MLlib to predict NYC taxi fares 
 
 ### 🟡 Toxic Comment Detection with Bias Minimization
 Developed NLP models to detect toxicity in comments, focusing on fairness across identity groups.  
-> _Tech: Scikit-learn, SGD, LSTM, NLP Preprocessing, Bias Mitigation_
+> _Tech: Scikit-learn, SGD, LSTM, NLP Preprocessing
 
 ---
 
